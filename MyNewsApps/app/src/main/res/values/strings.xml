@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyNewsApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome To My Application</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Enter Your Full Name</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_user">Enter Your Username</string>
+    <string name="enter_pass">Enter Your Password</string>
+    <string name="already_registered">Already Registered ? Sign In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered">Not Registered Yet ? Sign Up</string>
+    <string name="profile">My Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="username">Enter Your Name</string>
+    <string name="save">Save</string>
+    <string name="add_post">Add Post</string>
+    <string name="enter_caption">Write Caption here ....</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="write_Comment">Write Your Comment</string>
+    <string name="your_infomation">YOUR INFORMATION</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="author">Tác Giả </string>
+
+    <!-- String for fragment -->
+    <string name="search_bar">Search what you want here</string>
+    <string name="below_the_search_bar">Find What You Need Here</string>
+    <string name="btn_blank">Buton</string>
+
+</resources>
